@@ -84,7 +84,7 @@ nav ul li a:hover{
     margin: auto ;
     border-radius: 2rem;
     font-size: 1.2rem;
-    font-family:"Playfair Display";
+    font-family:'Courier New', Courier, monospace;
     background-color: var(--primary-color);
     transform: 0.3s;
     cursor: pointer;
