@@ -6,7 +6,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 body{
-    background-color: #05070a;
+    background-color: rgb(92, 137, 143);
     color: whitesmoke;
     min-height: 100vh;
 }
@@ -88,7 +88,7 @@ input{
     transition: all 0.3s ease;
 }
 input::placeholder{
-    color: rgba(245,245,245,0.4);
+    color:rgb(92, 137, 143);
 }
 .submit{
     display: block;
