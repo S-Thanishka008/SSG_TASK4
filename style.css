@@ -41,7 +41,7 @@ nav{
 }  
 nav .logo{
     color: var(--text-light);
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     font-weight: 500;  
 }
 nav ul{
@@ -52,7 +52,7 @@ nav ul{
 nav ul li a{
     text-decoration: none;
     color: var(--text-light);
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: 500;
     transition : 1.0s;
     position: relative;
@@ -72,7 +72,7 @@ nav ul li a:hover{
 }
 .c p{
     font-family:'Courier New', Courier, monospace;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     margin-bottom: 2rem;
 }
 .c .book{

@@ -52,14 +52,14 @@ nav{
     margin:0 auto;
 }
 .abt h1{
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: 700;
     color:whitesmoke;
     margin-bottom: 20px;
 }
 .tag{
     display:inline-block;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     letter-spacing: 3px;
     text-transform: uppercase;
     color:aquamarine;
@@ -67,7 +67,7 @@ nav{
     margin-bottom: 14px;
 }
 .para{
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     line-height: 1.7;
     color:whitesmoke;
 }
@@ -93,21 +93,21 @@ nav{
     border-color: aquamarine;
 }
 .card h2{
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     font-weight: 700;
     color:aquamarine;
     margin-bottom: 8px;
 }
 .lab{
     display: block;
-    font-size:1rem;
+    font-size:1.5rem;
     font-weight: 700;
     letter-spacing: 1.5px;
     color:whitesmoke;
     margin-bottom:8px;
 }
 .card p{
-    font-size: 0.85rem;
+    font-size: 1rem;
     color:whitesmoke;
     line-height:1.5;
 }
@@ -119,7 +119,7 @@ nav{
     box-shadow: 0 16px 36px rgba(0,0,0,0.25);
 }
 .missions h2{
-    font-size:2rem;
+    font-size:2.1rem;
     font-weight: 700;
     color:whitesmoke;
     margin-bottom: 14px;
