@@ -95,7 +95,6 @@ input::placeholder{
     text-decoration: none;
     color: #05070a;
     background-color: aquamarine;
-    transition: all 0.3s ease;
 }
 .submit:hover{
     background-color: whitesmoke;
